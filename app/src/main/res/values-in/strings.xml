@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Katalog Film</string>
+    <string name="movies">Film</string>
+    <string name="dummy_year">2018</string>
+    <string name="dummy_title">Venom</string>
+    <string name="dummy_desc">Description test one two three four five six</string>
+    <string name="overview">Ringkasan</string>
+    <string name="dummy_rating">7.4</string>
+    <string name="change_language">Ganti Bahasa</string>
+    <string name="tv_show">Acara TV</string>
+    <string name="release_year">Tanggal Rilis</string>
+    <string name="movie_image">Foto Film</string>
+    <string name="delete_question">Apakah anda ingin menghapus %s sebagai favorit?</string>
+    <string name="favorite_question">Apakah anda ingin mengfavorite kan %s ?</string>
+    <string name="delete">Hapus Favorit</string>
+    <string name="favorite">Favorit</string>
+    <string name="delete_successful">%s berhasil di hapus</string>
+    <string name="favorite_successful">%s berhasil di favoritkan</string>
+    <string name="positive">Ya</string>
+    <string name="negative">Tidak</string>
+    <string name="search">Cari disini…</string>
+    <string name="release_title">Peringatan Rilis</string>
+    <string name="release_content">Mengingatkan untuk menampilkan film yang\nkeluar hari ini</string>
+    <string name="daily_title">Peringatan Harian</string>
+    <string name="daily_content">Mengingatkan untuk kembali ke aplikasi</string>
+    <string-array name="page_title">
+        <item>Film</item>
+        <item>Acara TV</item>
+    </string-array>
+    <string name="appwidget_text">Film Favoritku</string>
+    <string name="empty_text">Tidak ada</string>
+    <string name="nodata">No Data</string>
+    <string name="content_title">Movie Catalogue</string>
+    <string name="content_text">Kami merindukanmu :*</string>
+    <string name="dailyreminder_on">Daily Reminder dinyalakan</string>
+    <string name="releasereminder_on">Release Reminder dinyalakan</string>
+    <string name="dailyreminder_off">Daily Reminder dimatikan</string>
+    <string name="releasereminder_off">Release Reminder dimatikan</string>
+    <string name="popular">Populer</string>
+    <string name="upcoming">Akan datang</string>
+    <string name="top_rated">Rating terbaik</string>
+    <string name="settings">Pengaturan</string>
+</resources>

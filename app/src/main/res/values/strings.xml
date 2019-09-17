@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+    <string name="movies">Movies</string>
+    <string name="dummy_year">2018</string>
+    <string name="dummy_title">Venom</string>
+    <string name="dummy_desc">Description test one two three four five six</string>
+    <string name="overview">Overview</string>
+    <string name="dummy_rating">7.4</string>
+    <string name="change_language">Change Language</string>
+    <string name="tv_show">TV Show</string>
+    <string name="release_year">Release Date</string>
+    <string name="movie_image">Movie Image</string>
+    <string name="delete_question">Do you want to delete %s from favorite?</string>
+    <string name="favorite_question">Do you want to add %s to favorite?</string>
+    <string name="delete">Delete Favorite</string>
+    <string name="favorite">Favorite</string>
+    <string name="delete_successful">%s successfully erased</string>
+    <string name="favorite_successful">%s added to favorite</string>
+    <string name="positive">Yes</string>
+    <string name="negative">No</string>
+    <string name="search">Search here…</string>
+    <string name="release_title">Release Reminder</string>
+    <string name="release_content">Reminder showing the movie that released\ntoday</string>
+    <string name="daily_title">Daily Reminder</string>
+    <string name="daily_content">Reminder for return to app</string>
+    <string-array name="page_title">
+        <item>Movies</item>
+        <item>TV Show</item>
+    </string-array>
+    <string name="appwidget_text">My Favourite Movie</string>
+    <string name="empty_text">No Movie</string>
+    <string name="nodata">No Data</string>
+    <string name="content_title">Movie Catalogue</string>
+    <string name="content_text">We miss you</string>
+    <string name="dailyreminder_on">Daily Reminder turned on</string>
+    <string name="releasereminder_on">Release Reminder turned on</string>
+    <string name="dailyreminder_off">Daily Reminder turned off</string>
+    <string name="releasereminder_off">Release Reminder turned off</string>
+    <string name="popular">Popular</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="settings">Settings</string>
+</resources>
